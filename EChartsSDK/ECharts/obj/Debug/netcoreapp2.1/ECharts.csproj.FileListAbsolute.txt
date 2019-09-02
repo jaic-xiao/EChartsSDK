@@ -1,0 +1,9 @@
+C:\github\EChartsSDK\ECharts\bin\Debug\netcoreapp2.1\ECharts.deps.json
+C:\github\EChartsSDK\ECharts\bin\Debug\netcoreapp2.1\ECharts.dll
+C:\github\EChartsSDK\ECharts\bin\Debug\netcoreapp2.1\ECharts.pdb
+C:\github\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.csprojAssemblyReference.cache
+C:\github\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.csproj.CoreCompileInputs.cache
+C:\github\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.AssemblyInfoInputs.cache
+C:\github\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.AssemblyInfo.cs
+C:\github\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.dll
+C:\github\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.pdb
