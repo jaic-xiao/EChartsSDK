@@ -1,0 +1,9 @@
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.csprojAssemblyReference.cache
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.csproj.CoreCompileInputs.cache
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.AssemblyInfoInputs.cache
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.AssemblyInfo.cs
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\bin\Debug\netcoreapp2.1\ECharts.deps.json
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\bin\Debug\netcoreapp2.1\ECharts.dll
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\bin\Debug\netcoreapp2.1\ECharts.pdb
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.dll
+C:\Users\zengjian\Desktop\EChartsSDK-master\EChartsSDK-master\EChartsSDK\ECharts\obj\Debug\netcoreapp2.1\ECharts.pdb
