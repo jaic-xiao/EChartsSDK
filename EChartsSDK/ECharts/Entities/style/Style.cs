@@ -29,6 +29,8 @@ namespace ECharts.Entities.style
 
         public object borderColor { get; set; }
 
+        public object borderColor0 {get; set;}
+
         public double? borderWidth { get; set; }
 
         public string barBorderColor { get; set; }

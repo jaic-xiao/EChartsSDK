@@ -3,3 +3,5 @@
 ################################################################################
 
 /EChartsSDK/ECharts/obj
+/EChartsSDK/ECharts/bin/Debug/netcoreapp2.1
+/EChartsSDK/.vs/ECharts
